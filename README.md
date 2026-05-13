@@ -11,7 +11,7 @@ Database Architecture: Designed using 3rd Normal Form (3NF) to eliminate data re
 
 Automated Inventory: Implemented a SQL Trigger (sy_stock) that automatically updates product stock levels whenever a new sale is recorded.
 
-Data Integrity: Used Primary Keys, Foreign Keys, and Check constraints (like limiting cities to specific Goan locations) to prevent "garbage" data from entering the system.
+Data Integrity: Used Primary Keys, Foreign Keys, and Check constraints (like limiting cities to specific Goan locations) to prevent garbage data from entering the system.
 
 Business Analytics: Includes a suite of custom queries to track high-value customers, identify unsold inventory, and analyze sales trends by city and month.
 
